@@ -125,7 +125,7 @@ text-align: center;
 
 th {
       padding: 8px; 
-          
+
      
    }
 
@@ -135,7 +135,16 @@ td {
     color: #669;   
   }
   
-  
+  /*Efectos lecturas*/
+
+  *{
+
+    padding: 0px;
+    margin:0px;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+  }
 
 
 
