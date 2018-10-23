@@ -17,13 +17,13 @@
     <nav class ="menu">
       <ul>
        <a href="index.html"><li>Inicio</li></a>
-         <a href="Lecturas.html"></a><li>Lecturas </li></a>
+       <a href="Lecturas.html"></a> <li>Lecturas </li>
          <li>Multimedia</li>
          <li>Actividades</li> 
-         <a href="Autores.html"></a><li>Autores</li></ul>
+         <a href="autores.html"><li>Autores</li> </a>
+
       </ul>
     </nav> <br>
 
 
     <h1 align="center">Lecturas </h1>  
-
